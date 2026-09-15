@@ -6,6 +6,8 @@
 // @author       yuyna
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=amazon.com
 // @match        https://scheduling.amazon.com/*
+// @updateURL    https://raw.githubusercontent.com/yuyna-amazon/labor-scheduling/main/LaborScheduling.user.js
+// @downloadURL  https://raw.githubusercontent.com/yuyna-amazon/labor-scheduling/main/LaborScheduling.user.js
 // @run-at       document-idle
 // @grant        GM_setClipboard
 // @grant        unsafeWindow
